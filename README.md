@@ -1,5 +1,5 @@
 # Rule-Bot
-A Rule-Bot made using python in Colab just like a regular bot we find in the Websites of swiggy, zomato answering one the most regular queries
+A Rule-Bot made using python in Colab just like a regular bot we find in the Websites of swiggy, zomato answering one the most regular queriess
 # Rule-Based Chat Bot
 
 Welcome to the Rule-Based Chat Bot project! This project demonstrates how to build a simple rule-based chatbot using Python. The chatbot can engage in predefined conversations and provide responses based on a set of rules and patterns.
